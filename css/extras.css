@@ -35,7 +35,7 @@ p span .textarea {
   color: #fff;
 }
 
-.content .table td {
+.content .table td, .content .table th {
   vertical-align: middle;
 }
 
